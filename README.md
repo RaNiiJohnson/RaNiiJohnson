@@ -8,6 +8,8 @@ Greetings! I'm @RaNiiJohnson, a self-taught enthusiast in the realm of full-stac
 
 I'm a self-driven learner who's embarked on a captivating autodidactic journey in web development. My fascination with the MERN stack has led me to delve deep into its intricacies, and I'm committed to creating impactful applications that merge my creativity with my technical prowess.
 
+- [@My portfolio:](https://raniijohnson.github.io/RaNiiJohnson-portfolio.github.io/)
+
 ## Interests
 
 - **Autodidactic Learning:** My journey as an autodidact fuels my curiosity and drive to master the world of full-stack development. I thrive on challenges and actively seek opportunities to learn and enhance my skills.
