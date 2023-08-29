@@ -20,7 +20,7 @@ I'm a self-driven learner who's embarked on a captivating autodidactic journey i
 
 - GitHub: [@RaNiiJohnson](https://github.com/RaNiiJohnson)
 - Facebook: [@RaNiiJohnson](https://www.facebook.com/rvnii.johnson)
-- Email: [johnsontolotriniavo](mailto:johnsontolotriniavo@gmail.com)
+- Email: [johnsontolotriniavo@gmail.com](mailto:johnsontolotriniavo@gmail.com)
 
 Let's connect and share our journeys in self-taught learning and full-stack JavaScript development!
 
