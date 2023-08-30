@@ -18,7 +18,6 @@ Je suis un développeur junior autonome qui s'est lancé dans un captivant voyag
 
 ## Me contacter
 
-- GitHub: [@RaNiiJohnson](https://github.com/RaNiiJohnson)
 - Facebook: [@RaNiiJohnson](https://www.facebook.com/rvnii.johnson)
 - Email: [johnsontolotriniavo@gmail.com](mailto:johnsontolotriniavo@gmail.com)
 
