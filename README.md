@@ -1,28 +1,28 @@
-# @RaNiiJohnson's Profile
+# @RaNiiJohnson
 
-## introduction
+## Introduction
 
-Greetings! I'm @RaNiiJohnson, a self-taught enthusiast in the realm of full-stack JavaScript development with a keen interest in the MERN stack. This README provides insight into my autodidact journey and my passion for crafting dynamic web applications.
+Salutations ! Je suis @Johnson, un passionné autodidacte dans le domaine du développement JavaScript full-stack avec un vif intérêt pour la pile MERN. Ce README offre un aperçu de mon parcours autodidacte et de ma passion pour la création d'applications web dynamiques.
 
-## About Me
+## À propos de moi
 
-I'm a self-driven learner who's embarked on a captivating autodidactic journey in web development. My fascination with the MERN stack has led me to delve deep into its intricacies, and I'm committed to creating impactful applications that merge my creativity with my technical prowess.
+Je suis un développeur junior autonome qui s'est lancé dans un captivant voyage autodidacte dans le développement web. Ma fascination pour la pile MERN m'a poussé à plonger profondément dans ses subtilités, et je suis déterminé à créer des applications impactantes qui fusionnent ma créativité avec mon savoir technique.
 
-## Interests
+## Intérêts
 
-- **Autodidactic Learning:** My journey as an autodidact fuels my curiosity and drive to master the world of full-stack development. I thrive on challenges and actively seek opportunities to learn and enhance my skills.
+- **Apprentissage autodidacte:** Mon parcours en tant qu'autodidacte alimente ma curiosité et ma motivation à maîtriser le monde du développement full-stack. Je prospère face aux défis et recherche activement des opportunités pour apprendre et améliorer mes compétences.
 
-- **MERN Stack Aficionado:** The MERN stack – encompassing MongoDB, Express.js, React, and Node.js – captivates me with its power and versatility. I'm enthusiastic about leveraging these technologies to craft modern, user-centric web experiences.
+- **Passionné de la pile MERN:** La pile MERN – englobant MongoDB, Express.js, React et Node.js – me captive par sa puissance et sa polyvalence. Je suis enthousiaste à l'idée de tirer parti de ces technologies pour créer des expériences web modernes centrées sur l'utilisateur.
 
-- **Full-Stack JavaScript:** My passion extends beyond the MERN stack to encompass the broader landscape of full-stack JavaScript development. From server-side logic to interactive frontends, I relish the entire spectrum of creating cohesive applications.
+- **JavaScript full-stack:** Ma passion s'étend au-delà de la pile MERN pour englober le vaste paysage du développement JavaScript full-stack. De la logique côté serveur aux interfaces interactives côté client, j'apprécie l'ensemble du spectre de la création d'applications cohésives.
 
-## Connect with Me
+## Me contacter
 
 - GitHub: [@RaNiiJohnson](https://github.com/RaNiiJohnson)
 - Facebook: [@RaNiiJohnson](https://www.facebook.com/rvnii.johnson)
 - Email: [johnsontolotriniavo@gmail.com](mailto:johnsontolotriniavo@gmail.com)
 
-Let's connect and share our journeys in self-taught learning and full-stack JavaScript development!
+Connectons-nous et partageons nos parcours dans l'apprentissage autodidacte et le développement JavaScript full-stack !
 
-Happy coding! 😄🚀
-[@My portfolio](https://raniijohnson.github.io/RaNiiJohnson-portfolio.github.io/)
+Happy coding ! 😄🚀
+[@Mon portfolio](https://raniijohnson.github.io/RaNiiJohnson-portfolio.github.io/)
