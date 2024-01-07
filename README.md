@@ -6,7 +6,7 @@ Salutations ! Je suis @Johnson, un passionné autodidacte dans le domaine du dé
 
 ## À propos de moi
 
-Je suis un développeur junior autonome qui s'est lancé dans un captivant voyage autodidacte dans le développement web. Ma fascination pour la pile MERN m'a poussé à plonger profondément dans ses subtilités, et je suis déterminé à créer des applications impactantes qui fusionnent ma créativité avec mon savoir technique.
+Je suis un développeur autonome qui s'est lancé dans un captivant voyage autodidacte dans le développement web. Ma fascination pour la pile MERN m'a poussé à plonger profondément dans ses subtilités, et je suis déterminé à créer des applications impactantes qui fusionnent ma créativité avec mon savoir technique.
 
 ## Intérêts
 
