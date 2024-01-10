@@ -6,7 +6,7 @@ Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprent
 
 ## À propos de moi
 
-Je suis un développeur autonome qui s'est lancé dans un captivant voyage autodidacte dans le développement web. Ma fascination pour la pile MERN m'a poussé à plonger profondément dans ses subtilités, et je suis déterminé à créer des applications impactantes qui fusionnent ma créativité avec mon savoir technique.
+Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'apprentissage dans le développement web, avec une spécialisation croissante dans React/Next.js. Passionné par la création d'expériences utilisateur.
 
 ## Intérêts
 
@@ -14,7 +14,7 @@ Je suis un développeur autonome qui s'est lancé dans un captivant voyage autod
 
 - **Passionné de la pile MERN:** 
 
-- **JavaScript full-stack:** 
+- **React/Next.js:** 
 
 ## Me contacter
 
