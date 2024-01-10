@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Salutations ! Je suis @Johnson, un passionné autodidacte dans le domaine du développement JavaScript full-stack avec un vif intérêt pour la pile MERN. 
+Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprentissage dans le domaine du développement web, avec une expertise particulière dans React/Next.js. 
 
 ## À propos de moi
 
