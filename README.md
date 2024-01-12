@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprentissage dans le domaine du développement web, avec une expertise particulière dans React/Next.js. 
+Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprentissage dans le domaine du développement web.
 
 ## À propos de moi
 
@@ -14,7 +14,7 @@ Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'
 
 - **Passionné de la pile MERN:** 
 
-- **React/Next.js:** 
+- **React/Next.js:**
 
 ## Me contacter
 
