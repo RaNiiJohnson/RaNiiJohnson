@@ -10,11 +10,11 @@ Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'
 
 ## Intérêts
 
-- **Apprentissage autodidacte:**
+- **Apprentissage autodidacte**
 
-- **Passionné de la pile MERN:** 
+- **React/Next.js** 
 
-- **React/Next.js:**
+- **Passionné de la pile MERN**
 
 ## Me contacter
 
