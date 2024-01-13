@@ -20,6 +20,7 @@ Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'
 
 - Facebook: [@RaNiiJohnson](https://www.facebook.com/rvnii.johnson)
 - Email: [johnsontolotriniavo@gmail.com](mailto:johnsontolotriniavo@gmail.com)
+- Linkedin: [TolotriniavoJohnson](https://linkedin.com/in/tolotriniavo-johnson-b9427b26b)
 
 Connectons-nous et partageons nos parcours dans l'apprentissage autodidacte et le développement JavaScript full-stack !
 
