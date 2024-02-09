@@ -24,5 +24,5 @@ Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'
 
 Connectons-nous et partageons nos parcours dans l'apprentissage autodidacte et le développement JavaScript full-stack !
 
-Happy coding ! 😄🚀
+Happy coding !! 😄🚀
 [@Mon portfolio](https://portfolio-tolotriniavo-johnson.vercel.app/)
