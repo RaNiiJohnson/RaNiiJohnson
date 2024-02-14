@@ -22,7 +22,5 @@ Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'
 - Email: [johnsontolotriniavo@gmail.com](mailto:johnsontolotriniavo@gmail.com)
 - Linkedin: [TolotriniavoJohnson](https://linkedin.com/in/tolotriniavo-johnson-b9427b26b)
 
-Connectons-nous et partageons nos parcours dans l'apprentissage autodidacte et le développement JavaScript full-stack !
-
 Happy coding !! 😄🚀
 [@Mon portfolio](https://portfolio-tolotriniavo-johnson.vercel.app/)
