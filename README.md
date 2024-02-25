@@ -4,10 +4,6 @@
 
 Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprentissage dans le domaine du développement web.
 
-## À propos de moi
-
-Je suis un développeur autodidacte qui s'est lancé dans un fascinant voyage d'apprentissage dans le développement web, avec une spécialisation croissante dans React/Next.js. Passionné par la création d'expériences utilisateur.
-
 ## Intérêts
 
 - **Apprentissage autodidacte**
