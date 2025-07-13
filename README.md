@@ -10,8 +10,6 @@ Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprent
 
 - **React/Next.js** 
 
-- **Passionné de la pile MERN**
-
 ## Me contacter
 
 - Facebook: [@RaNiiJohnson](https://www.facebook.com/rvnii.johnson)
