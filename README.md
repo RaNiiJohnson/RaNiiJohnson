@@ -1,20 +1,16 @@
-# @Tolotriniavo Rajaonson
+# Hi, I'm Johnson 
 
-## Introduction
+Self-taught developer turning ideas into real.
 
-Salutations ! Je suis @Johnson, un développeur passionné en perpétuel apprentissage dans le domaine du développement web.
+Currently building **[Hallomada](https://www.hallomada.de)**, a community, jobs and housing network for the Malagasy diaspora in Germany. Still a work in progress, but live.
 
-## Intérêts
+## What I work with
 
-- **Apprentissage autodidacte**
+Next.js · React · Convex · TypeScript · Better Auth · shadcn/ui · Tailwind
 
-- **React/Next.js** 
+## Find me
 
-## Me contacter
-
-- Facebook: [@RaNiiJohnson](https://www.facebook.com/rvnii.johnson)
+- Portfolio: [johnsontolotriniavo.vercel.app](https://johnsontolotriniavo.vercel.app/)
+- LinkedIn: [Tolotriniavo Johnson](https://linkedin.com/in/tolotriniavo-johnson-b9427b26b)
 - Email: [johnsontolotriniavo@gmail.com](mailto:johnsontolotriniavo@gmail.com)
-- Linkedin: [TolotriniavoJohnson](https://linkedin.com/in/tolotriniavo-johnson-b9427b26b)
 
-Happy coding !! 😄🚀
-[@Mon portfolio](https://johnsontolotriniavo.vercel.app/)
