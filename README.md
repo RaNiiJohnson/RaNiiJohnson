@@ -6,7 +6,7 @@ Currently building **[Hallomada](https://www.hallomada.de)**, a community, jobs 
 
 ## What I work with
 
-Next.js · React · Convex · TypeScript · Better Auth · Tailwind
+Next.js · React · Convex · Better Auth · Tailwind · TypeScript
 
 ## Find me
 
